@@ -15,8 +15,8 @@ Herein, I developed an Online Game Automation Scipt or Bot in python
 	 - **mid** - field belonging to roughly center
 	 - **corner inputs** - area of working for the code
 	 - the flow of the functions can be understood with the vide demonstrations:
-	   - game automation in action - https://youtu.be/gQdrBmnemHY
-	   - game automation with function flow - https://youtu.be/M3zJnKzrqs0
+	   - game automation in action - [https://youtu.be/gQdrBmnemHY](https://drive.google.com/file/d/1LtLfKLqq8E3ZhqpjbavqyIvYJKGPqgIL/view?usp=sharing)
+	 <!--  - game automation with function flow - https://youtu.be/M3zJnKzrqs0 -->
 
 
       
